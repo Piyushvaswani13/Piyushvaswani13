@@ -12,7 +12,7 @@
 
 - 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/piyushsindhi13](https://www.linkedin.com/in/piyushsindhi13)
 
-- 💬 Ask me about **JAVA , C++**
+- 💬 Ask me about **JAVA , C++ , SQL **
 
 - 📫 How to reach me **piyushsindhi3@gmail.com**
 
@@ -22,7 +22,7 @@
 <p align="left">
 <a href="https://twitter.com/piyush_sindhi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="piyush_sindhi" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/piyushsindhi13" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="piyushsindhi13" height="30" width="40" /></a>
-<a href="https://instagram.com/piyushsindhi13" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="piyushsindhi13" height="30" width="40" /></a>
+<a href="https://instagram.com/piyushvaswani_13" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="piyushvaswani_13" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
